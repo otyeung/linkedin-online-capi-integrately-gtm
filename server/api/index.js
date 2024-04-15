@@ -24,7 +24,7 @@ const googleFormFields = {
 
 // Define a whitelist of allowed origins for CORS
 const whitelist = [
-  'https://linkedin-online-capi-integrately.vercel.app',
+  'https://linkedin-online-capi-integrately-gtm.vercel.app',
   'http://localhost:3000',
 ]
 
